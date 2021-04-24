@@ -1,2 +1,2 @@
 # cppExceptionHandling
-Exception handling mechanism in CPP+
+Exception handling mechanism in CPP
